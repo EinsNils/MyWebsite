@@ -71,6 +71,12 @@ p {
 	color: crimson;
 }
 
+.black h1 {
+	font-size: 3rem;
+	text-transform: uppercase;
+	color: black;
+}
+
 /* Header section */
 #header {
 	position: fixed;
@@ -316,6 +322,13 @@ p {
 }
 #services .service-item h2 {
 	font-size: 2rem;
+	color: white;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+#services .service-item h3 {
+	font-size: 1.5rem;
 	color: white;
 	margin-bottom: 10px;
 	text-transform: uppercase;
